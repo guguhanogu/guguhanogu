@@ -5,9 +5,13 @@
 
 
 <div align="leading">
-  <img src="https://img.shields.io/badge/Swift-FC8019?style=for-the-badge&logo=Swift&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Swift-FC8019?style=for-the-badge&logo=Swift&logoColor=white"/>
 	<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guguhanogu&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=guguhanogu&show_icons=true">
+<div align="leading">
+	<img src="https://github-readme-stats.vercel.app/api?username=guguhanogu&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guguhanogu&layout=compact">
+</div>
+
+
