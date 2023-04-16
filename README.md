@@ -3,7 +3,7 @@
 
 
 
-
+### Skills.
 <div align = "leading">
 	<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=for-the-badge&logo=swift&logoColor=blue"/>
