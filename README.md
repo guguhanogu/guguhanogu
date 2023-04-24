@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/><br>
 	<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=Python&logoColor=3776AB"/>
 	<img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=00599C"/><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=guguhanogu&show_icons=true"><br>
+	<!-- <img src="https://github-readme-stats.vercel.app/api?username=guguhanogu&show_icons=true"> --><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guguhanogu&layout=compact"><br><br><br>
 </div>
 
