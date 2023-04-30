@@ -1,9 +1,11 @@
 ## guguhanogu
 ### 👋 안녕하세요!
 
+## 📚 Education & Experience
+` 22.09 ~ 23.02 `    **멋쟁이사자처럼 앱스쿨 1기: iOS 과정** (수료)<br>
+` 15.03 ~ 21.02 `    **인하대학교 컴퓨터공학과** (졸업)
 
-
-### Skills.
+## Skills.
 <div align = "leading">
 	<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=for-the-badge&logo=swift&logoColor=blue"/>
